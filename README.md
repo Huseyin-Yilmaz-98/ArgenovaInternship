@@ -1,1 +1,1 @@
-Codes written during the internship at Argenova.
+Codes written during as an intern at Argenova.
