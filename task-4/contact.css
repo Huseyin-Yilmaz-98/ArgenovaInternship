@@ -1,0 +1,28 @@
+.input-container {
+  height: 75px;
+}
+
+.tall {
+  height: 150px;
+}
+
+.button {
+  border-radius: 24px;
+  font-weight: bold;
+  height: 50px;
+}
+
+.contact-info-container,
+.button {
+  background: rgb(41, 34, 161);
+  background: linear-gradient(
+    90deg,
+    rgba(41, 34, 161, 1) 0%,
+    rgba(32, 49, 181, 1) 25%,
+    rgba(0, 104, 255, 1) 100%
+  );
+}
+
+.breadcrumbs{
+  background-image: url("images/PageHeaders/contact.jpg");
+}
